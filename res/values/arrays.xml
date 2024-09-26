@@ -16,17 +16,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <array name="partner_wallpapers" translatable="false">
-        <item>sky</item>
-        <item>rainy_night</item>
-        <item>abstract_sky</item>
-        <item>mountains</item>
-        <item>mountains_lake</item>
-        <item>flowers</item>
-        <item>building</item>
-        <item>mountains_sunset</item>
-        <item>pink_blue</item>
-        <item>cyan_blue</item>
-        <item>green_fade</item>
-        <item>dark_fade</item>
+        <item>Stark1</item>
+        <item>Stark2</item>
+        <item>Stark3</item>
+        <item>Stark4</item>
+        <item>Stark5</item>
+        <item>Stark6</item>
+        <item>Stark7</item> 
+        <item>Stark8</item>
+        <item>Stark9</item>
+        <item>Stark10</item>
+        <item>Stark11</item>
+         
     </array>
 </resources>
